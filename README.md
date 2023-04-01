@@ -1,1 +1,1 @@
-# magnet-design-software
+# Console based application using c++
