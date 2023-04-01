@@ -1,3 +1,6 @@
+
+// ----------------------- Magnet Design Software -----------------------
+
 #include <iostream>
 
 using namespace std;
