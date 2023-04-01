@@ -1,3 +1,6 @@
+
+// ----------------------- Magnet Design Software -----------------------
+
 #include<stdio.h>
 #include<conio.h>
 #define Bg 0.3
